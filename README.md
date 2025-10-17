@@ -5,7 +5,7 @@ O projeto é um **clone da página oficial de vendas do Apple Watch**, desenvolv
 
 ## 🌐 Deploy
 
-🔗 **Acesse o projeto online:** [[https://seu-link-deploy-aqui.com](https://seu-link-deploy-aqui.com)](https://mateus-db.github.io/Apple_Watch/)
+🔗 **Acesse o projeto online:** https://mateus-db.github.io/Apple_Watch/
 
 ## 🎯 Objetivo
 
